@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I'm a Computer Engineer who likes to work on impactful modern projects and applications.<br>💻 I'm currently working on projects about implementing applications of AI in conventional industries.<br>🤝 I'm always on the lookout for exciting collaborations, so feel free to reach out to me here: thevanshmohan@gmail.com
+👨‍💻 I'm a Computer Engineer who likes to work on impactful modern projects and applications.<br>💻 I'm currently working on projects about implementing applications of AI in conventional industries.<br>🤝 I'm always on the lookout for exciting collaborations, so feel free to reach out to me here: vanshmohan.dev@gmail.com
 
 
 ## 🌐 Socials:
